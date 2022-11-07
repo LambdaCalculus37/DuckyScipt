@@ -1,8 +1,0 @@
-REM Rickroll via the terminal!
-CTRL ALT T
-DELAY 1000
-STRING curl ascii.live/rick
-ENTER
-DELAY 20000
-CTRL C
-STRING Right, that's enough! :)
